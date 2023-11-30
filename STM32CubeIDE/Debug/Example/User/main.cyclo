@@ -1,0 +1,6 @@
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:13:17:static void ClockManager::Configure()	4
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:61:17:static void IndicatorLED::Initialize()	1
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:68:17:static void IndicatorLED::ToggleState()	1
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:83:17:static void InterruptManager::Configure()	1
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:102:5:int main()	1
+C:/Users/alile/Desktop/FinalProject2/GPIO_EXTI/Src/main.c:116:17:void HAL_GPIO_EXTI_Callback(uint16_t)	2
