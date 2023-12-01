@@ -1,3 +1,9 @@
+/**
+ * @file main.c
+ * @brief This program uses the user button as a hardware interrupt to toggle led.
+ *
+ * This program initializes the user button using GPIO.
+ */
 #include "main.h"
 
 /**
